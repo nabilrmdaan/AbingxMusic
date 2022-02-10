@@ -37,11 +37,12 @@
 
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@nabilrmdaan/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@nabilrmdaan/AbingString)
+
 
 
 <h2 align="center">
-   Metode Deploy
+Metode Deploy
 </h2>
 
 

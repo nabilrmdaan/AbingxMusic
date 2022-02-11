@@ -46,7 +46,7 @@ def start_pannel():
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
+            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/nabilrmdaan/AbingxMusic"),
         ],
     ]
     return (
@@ -69,7 +69,7 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
+            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/nabilrmdaan/AbingxMusic"),
         ],
     ]
 )

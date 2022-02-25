@@ -1,7 +1,7 @@
 <h2 align="centre">AbingxMusic Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7697d0b3a0d4ccdbac548.jpg">
+  
 </p>
 
 <h3>Requirements 📝</h3>
